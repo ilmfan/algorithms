@@ -15,6 +15,3 @@ def reverse(s):
         i += 1
 
     return "".join(reversed(s))
-
-s = "This is the best"
-print(reverse(s))
